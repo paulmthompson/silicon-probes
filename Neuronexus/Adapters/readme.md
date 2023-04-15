@@ -1,0 +1,2 @@
+
+Excel files specify mapping between Intan headstages and Neuronexus probes. The mapping is specified in the form of a table, where each row corresponds to a channel on the probe and each column corresponds to a channel on the headstage. The table is filled with the channel numbers on the headstage that should be connected to the corresponding channel on the probe. If a channel on the probe is not connected to any channel on the headstage, the corresponding cell in the table should be left blank.
