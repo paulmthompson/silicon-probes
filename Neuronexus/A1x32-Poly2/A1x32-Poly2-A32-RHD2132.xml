@@ -10,38 +10,39 @@
    <Line x1="57" x2="-57" y1="775" y2="775"/>
 
    <Port name="A" siteShape="Ellipse" siteWidth="15" siteHeight="15">
-    <ElectrodeSite channelNumber="19" x="-21.65" y="300"/>
-    <ElectrodeSite channelNumber="28" x="-21.65" y="350"/>
-    <ElectrodeSite channelNumber="20" x="-21.65" y="400"/>
-    <ElectrodeSite channelNumber="27" x="-21.65" y="450"/>
-    <ElectrodeSite channelNumber="21" x="-21.65" y="500"/>
-    <ElectrodeSite channelNumber="26" x="-21.65" y="550"/>
-    <ElectrodeSite channelNumber="22" x="-21.65" y="600"/>
+    <ElectrodeSite channelNumber="23" x="-21.65" y="750"/>
+    <ElectrodeSite channelNumber="28" x="-21.65" y="700"/>
     <ElectrodeSite channelNumber="25" x="-21.65" y="650"/>
-    <ElectrodeSite channelNumber="23" x="-21.65" y="700"/>
-    <ElectrodeSite channelNumber="24" x="-21.65" y="750"/>
-    <ElectrodeSite channelNumber="16" x="-21.65" y="250"/>
-    <ElectrodeSite channelNumber="31" x="-21.65" y="200"/>
-    <ElectrodeSite channelNumber="18" x="-21.65" y="150"/>
-    <ElectrodeSite channelNumber="29" x="-21.65" y="100"/>
-    <ElectrodeSite channelNumber="17" x="-21.65" y="50"/>
-    <ElectrodeSite channelNumber="30" x="-21.65" y="0"/>
-    <ElectrodeSite channelNumber="14" x="21.65" y="25"/>
-    <ElectrodeSite channelNumber="1" x="21.65" y="75"/>
-    <ElectrodeSite channelNumber="13" x="21.65" y="125"/>
-    <ElectrodeSite channelNumber="2" x="21.65" y="175"/>
-    <ElectrodeSite channelNumber="15" x="21.65" y="225"/>
-    <ElectrodeSite channelNumber="0" x="21.65" y="275"/>
-    <ElectrodeSite channelNumber="8" x="21.65" y="775"/>
-    <ElectrodeSite channelNumber="7" x="21.65" y="725"/>
-    <ElectrodeSite channelNumber="9" x="21.65" y="675"/>
-    <ElectrodeSite channelNumber="6" x="21.65" y="625"/>
+    <ElectrodeSite channelNumber="20" x="-21.65" y="600"/>
+    <ElectrodeSite channelNumber="22" x="-21.65" y="550"/>
+    <ElectrodeSite channelNumber="27" x="-21.65" y="500"/>
+    <ElectrodeSite channelNumber="17" x="-21.65" y="450"/>
+    <ElectrodeSite channelNumber="21" x="-21.65" y="400"/>
+    <ElectrodeSite channelNumber="26" x="-21.65" y="350"/>
+    <ElectrodeSite channelNumber="30" x="-21.65" y="300"/>
+    <ElectrodeSite channelNumber="19" x="-21.65" y="250"/>
+    <ElectrodeSite channelNumber="24" x="-21.65" y="200"/>
+    <ElectrodeSite channelNumber="29" x="-21.65" y="150"/>
+    <ElectrodeSite channelNumber="18" x="-21.65" y="100"/>
+    <ElectrodeSite channelNumber="31" x="-21.65" y="50"/>
+    <ElectrodeSite channelNumber="16" x="-21.65" y="0"/>
+
+    <ElectrodeSite channelNumber="7" x="21.65" y="775"/>
+    <ElectrodeSite channelNumber="1" x="21.65" y="725"/>
+    <ElectrodeSite channelNumber="6" x="21.65" y="675"/>
+    <ElectrodeSite channelNumber="14" x="21.65" y="625"/>
     <ElectrodeSite channelNumber="10" x="21.65" y="575"/>
-    <ElectrodeSite channelNumber="5" x="21.65" y="525"/>
-    <ElectrodeSite channelNumber="11" x="21.65" y="475"/>
-    <ElectrodeSite channelNumber="4" x="21.65" y="425"/>
-    <ElectrodeSite channelNumber="12" x="21.65" y="375"/>
+    <ElectrodeSite channelNumber="11" x="21.65" y="525"/>
+    <ElectrodeSite channelNumber="5" x="21.65" y="475"/>
+    <ElectrodeSite channelNumber="12" x="21.65" y="425"/>
+    <ElectrodeSite channelNumber="4" x="21.65" y="375"/>
     <ElectrodeSite channelNumber="3" x="21.65" y="325"/>
+    <ElectrodeSite channelNumber="9" x="21.65" y="275"/>
+    <ElectrodeSite channelNumber="8" x="21.65" y="225"/>
+    <ElectrodeSite channelNumber="13" x="21.65" y="175"/>
+    <ElectrodeSite channelNumber="2" x="21.65" y="125"/>
+    <ElectrodeSite channelNumber="15" x="21.65" y="75"/>
+    <ElectrodeSite channelNumber="0" x="21.65" y="25"/>
    </Port>
    
   </Page>
