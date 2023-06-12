@@ -12,13 +12,13 @@
    <Line x1="14.5" x2="0" y1="0" y2="-22"/>
    
    <Port name="A" siteShape="Rectangle" siteWidth="10" siteHeight="14">
-    <ElectrodeSite channelNumber="19" x="-18.5" y="140"/>
-    <ElectrodeSite channelNumber="28" x="-14.75" y="100"/>
-    <ElectrodeSite channelNumber="20" x="-10.5" y="60"/>
-    <ElectrodeSite channelNumber="27" x="-8.5" y="20"/>
-    <ElectrodeSite channelNumber="21" x="0" y="0"/>
-    <ElectrodeSite channelNumber="26" x="8.5" y="40"/>
-    <ElectrodeSite channelNumber="22" x="12.5" y="80"/>
+    <ElectrodeSite channelNumber="30" x="-18.5" y="140"/>
+    <ElectrodeSite channelNumber="26" x="-14.75" y="100"/>
+    <ElectrodeSite channelNumber="21" x="-10.5" y="60"/>
+    <ElectrodeSite channelNumber="17" x="-8.5" y="20"/>
+    <ElectrodeSite channelNumber="27" x="0" y="0"/>
+    <ElectrodeSite channelNumber="22" x="8.5" y="40"/>
+    <ElectrodeSite channelNumber="20" x="12.5" y="80"/>
     <ElectrodeSite channelNumber="25" x="16.5" y="120"/>
    </Port>
   </Page>
@@ -34,14 +34,14 @@
    <Line x1="14.5" x2="0" y1="0" y2="-22"/>
    
    <Port name="A" siteShape="Rectangle" siteWidth="10" siteHeight="14">
-    <ElectrodeSite channelNumber="23" x="-18.5" y="140"/>
-    <ElectrodeSite channelNumber="24" x="-14.75" y="100"/>
-    <ElectrodeSite channelNumber="16" x="-10.5" y="60"/>
-    <ElectrodeSite channelNumber="31" x="-8.5" y="20"/>
-    <ElectrodeSite channelNumber="18" x="0" y="0"/>
-    <ElectrodeSite channelNumber="29" x="8.5" y="40"/>
-    <ElectrodeSite channelNumber="17" x="12.5" y="80"/>
-    <ElectrodeSite channelNumber="30" x="16.5" y="120"/>
+    <ElectrodeSite channelNumber="28" x="-18.5" y="140"/>
+    <ElectrodeSite channelNumber="23" x="-14.75" y="100"/>
+    <ElectrodeSite channelNumber="19" x="-10.5" y="60"/>
+    <ElectrodeSite channelNumber="24" x="-8.5" y="20"/>
+    <ElectrodeSite channelNumber="29" x="0" y="0"/>
+    <ElectrodeSite channelNumber="18" x="8.5" y="40"/>
+    <ElectrodeSite channelNumber="31" x="12.5" y="80"/>
+    <ElectrodeSite channelNumber="16" x="16.5" y="120"/>
    </Port>
    
   </Page>
@@ -56,14 +56,14 @@
    <Line x1="14.5" x2="0" y1="0" y2="-22"/>
    
    <Port name="A" siteShape="Rectangle" siteWidth="10" siteHeight="14">
-    <ElectrodeSite channelNumber="14" x="-18.5" y="140"/>
-    <ElectrodeSite channelNumber="1" x="-14.75" y="100"/>
-    <ElectrodeSite channelNumber="13" x="-10.5" y="60"/>
-    <ElectrodeSite channelNumber="2" x="-8.5" y="20"/>
-    <ElectrodeSite channelNumber="15" x="0" y="0"/>
-    <ElectrodeSite channelNumber="0" x="8.5" y="40"/>
-    <ElectrodeSite channelNumber="8" x="12.5" y="80"/>
-    <ElectrodeSite channelNumber="7" x="16.5" y="120"/>
+    <ElectrodeSite channelNumber="0" x="-18.5" y="140"/>
+    <ElectrodeSite channelNumber="15" x="-14.75" y="100"/>
+    <ElectrodeSite channelNumber="2" x="-10.5" y="60"/>
+    <ElectrodeSite channelNumber="13" x="-8.5" y="20"/>
+    <ElectrodeSite channelNumber="8" x="0" y="0"/>
+    <ElectrodeSite channelNumber="9" x="8.5" y="40"/>
+    <ElectrodeSite channelNumber="7" x="12.5" y="80"/>
+    <ElectrodeSite channelNumber="1" x="16.5" y="120"/>
    </Port>
    
   </Page>
@@ -78,13 +78,13 @@
    <Line x1="14.5" x2="0" y1="0" y2="-22"/>
    
    <Port name="A" siteShape="Rectangle" siteWidth="10" siteHeight="14">
-    <ElectrodeSite channelNumber="9" x="-18.5" y="140"/>
-    <ElectrodeSite channelNumber="6" x="-14.75" y="100"/>
+    <ElectrodeSite channelNumber="6" x="-18.5" y="140"/>
+    <ElectrodeSite channelNumber="14" x="-14.75" y="100"/>
     <ElectrodeSite channelNumber="10" x="-10.5" y="60"/>
-    <ElectrodeSite channelNumber="5" x="-8.5" y="20"/>
-    <ElectrodeSite channelNumber="11" x="0" y="0"/>
-    <ElectrodeSite channelNumber="4" x="8.5" y="40"/>
-    <ElectrodeSite channelNumber="12" x="12.5" y="80"/>
+    <ElectrodeSite channelNumber="11" x="-8.5" y="20"/>
+    <ElectrodeSite channelNumber="5" x="0" y="0"/>
+    <ElectrodeSite channelNumber="12" x="8.5" y="40"/>
+    <ElectrodeSite channelNumber="4" x="12.5" y="80"/>
     <ElectrodeSite channelNumber="3" x="16.5" y="120"/>
    </Port>
    
