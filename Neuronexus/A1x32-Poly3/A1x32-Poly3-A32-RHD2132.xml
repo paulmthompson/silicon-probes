@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<IntanRHX version="3.0.0" type="ControllerStimRecordUSB2" sampleRate="30 kHz">
+ <ProbeMapSettings backgroundColor="Black">
+  <Page name="Shanks">
+  
+   <Line x1="-57" x2="-31" y1="275" y2="0"/>
+   <Line x1="-31" x2="0" y1="0" y2="-62"/>
+   <Line x1="0" x2="31" y1="-62" y2="0"/>
+   <Line x1="31" x2="57" y1="0" y2="275"/>
+   <Line x1="57" x2="-57" y1="275" y2="275"/>
+
+   <Port name="A" siteShape="Ellipse" siteWidth="15" siteHeight="15">
+    <ElectrodeSite channelNumber="23" x="-18" y="237.5"/>
+    <ElectrodeSite channelNumber="28" x="-18" y="212.5"/>
+    <ElectrodeSite channelNumber="25" x="-18" y="187.5"/>
+    <ElectrodeSite channelNumber="20" x="-18" y="162.5"/>
+    <ElectrodeSite channelNumber="22" x="-18" y="137.5"/>
+    <ElectrodeSite channelNumber="27" x="-18" y="112.5"/>
+    <ElectrodeSite channelNumber="17" x="-18" y="87.5"/>
+    <ElectrodeSite channelNumber="21" x="-18" y="62.5"/>
+    <ElectrodeSite channelNumber="26" x="-18" y="37.5"/>
+    <ElectrodeSite channelNumber="30" x="-18" y="12.5"/>
+
+    <ElectrodeSite channelNumber="0" x="0" y="275"/>
+    <ElectrodeSite channelNumber="16" x="0" y="250"/>
+    <ElectrodeSite channelNumber="15" x="0" y="225"/>
+    <ElectrodeSite channelNumber="31" x="0" y="200"/>
+    <ElectrodeSite channelNumber="2" x="0" y="175"/>
+    <ElectrodeSite channelNumber="18" x="0" y="150"/>
+    <ElectrodeSite channelNumber="13" x="0" y="125"/>
+    <ElectrodeSite channelNumber="29" x="0" y="100"/>
+    <ElectrodeSite channelNumber="8" x="0" y="75"/>
+    <ElectrodeSite channelNumber="24" x="0" y="50"/>
+    <ElectrodeSite channelNumber="9" x="0" y="25"/>
+    <ElectrodeSite channelNumber="19" x="0" y="0"/>
+
+    <ElectrodeSite channelNumber="7" x="18" y="237.5"/>
+    <ElectrodeSite channelNumber="1" x="18" y="212.5"/>
+    <ElectrodeSite channelNumber="6" x="18" y="187.5"/>
+    <ElectrodeSite channelNumber="14" x="18" y="162.5"/>
+    <ElectrodeSite channelNumber="10" x="18" y="137.5"/>
+    <ElectrodeSite channelNumber="11" x="18" y="112.5"/>
+    <ElectrodeSite channelNumber="5" x="18" y="87.5"/>
+    <ElectrodeSite channelNumber="12" x="18" y="62.5"/>
+    <ElectrodeSite channelNumber="4" x="18" y="37.5"/>
+    <ElectrodeSite channelNumber="3" x="18" y="12.5"/>
+
+
+   </Port>
+   
+  </Page>
+ </ProbeMapSettings>
+</IntanRHX>
